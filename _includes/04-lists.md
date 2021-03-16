@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Research Interests 
+1. Quantitative ecology 📈
+2. Fisheries assessment 🐟
+3. Fisheries management 🎣
